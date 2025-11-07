@@ -26,6 +26,7 @@ A simple **Python-based Expense Tracker** that lets you record, view, and analyz
 **CLI Version:**
 ![CLI Preview](CLI_preview.png)
 
+💡 Built with ❤️ by [Vanisha Nair](https://github.com/Vanii1007)
 
 ---
 
@@ -35,4 +36,3 @@ A simple **Python-based Expense Tracker** that lets you record, view, and analyz
 python expense_tracker.py
 
 ---
-💡 Built with ❤️ by [Vanisha Nair](https://github.com/Vanii1007)
