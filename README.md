@@ -16,7 +16,16 @@ A simple **Python-based Expense Tracker** that lets you record, view, and analyz
 ## 🧠 Tech Stack
 - Python 🐍  
 - Pandas  
-- Streamlit   
+- Streamlit
+
+  ## 📸 Project Preview
+
+**Web Version:**
+![Web Preview](web_page_screenshot.png)
+
+**CLI Version:**
+![CLI Preview](CLI_preview.png)
+
 
 ---
 
@@ -24,3 +33,6 @@ A simple **Python-based Expense Tracker** that lets you record, view, and analyz
 ### CLI version:
 ```bash
 python expense_tracker.py
+
+---
+💡 Built with ❤️ by [Vanisha Nair](https://github.com/Vanii1007)
